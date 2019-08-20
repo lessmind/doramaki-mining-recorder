@@ -1,4 +1,4 @@
 module.exports = {
-	publicPath: '/doramaki/dist',
+	publicPath: '/doramaki-mining-recorder',
 	outputDir: 'docs',
 }
