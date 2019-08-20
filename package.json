@@ -1,0 +1,9 @@
+{
+  "name": "doramaki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/cli": "^3.10.0"
+  }
+}
