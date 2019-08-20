@@ -1,3 +1,6 @@
+# About
+An ugly but working mining recorder for Doraemon farming game of Nintendo Switch
+
 # Init project
 ```
 yarn install
