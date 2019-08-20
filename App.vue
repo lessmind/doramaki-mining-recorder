@@ -189,7 +189,7 @@ export default {
 			}
 		},
 		setDirection(name) {
-			if(confirm('Really?')) {
+			if(confirm('Are you sure to clear mine table?\nAnd start mining in new direction?')) {
 				this.currentDirection = name;
 				this.anchor = [].concat(directions[this.currentDirection].start);
 				this.clearMineTable();
