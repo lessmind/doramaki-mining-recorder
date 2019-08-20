@@ -151,6 +151,9 @@ export default {
 			this.anchor = [x, y];
 		},
 		setMine(name) {
+			if(!name) {
+				return;
+			}
 			let [x, y] = this.anchor;
 			if(
 				x < 0 ||
