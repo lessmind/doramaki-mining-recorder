@@ -8,12 +8,12 @@ yarn install
 
 # Development
 ```
-yarn exec vue serve
+yarn vue serve
 ```
 
 # Build
 ```
-yarn exec vue build
+yarn vue build
 ```
 
 # Note
